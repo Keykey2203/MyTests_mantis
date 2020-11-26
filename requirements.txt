@@ -3,4 +3,5 @@ selenium
 jsonpickle
 pony
 pymysql
+suds
 mysql-connector-python-rf
