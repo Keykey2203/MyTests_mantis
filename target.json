@@ -2,10 +2,10 @@
   "web": {
     "baseUrl": "http://localhost/mantisbt-1.2.20/"
   },
-   "webadmin": {
-     "username": "administrator",
-     "password": "root"
-   },
+  "webadmin": {
+    "username": "administrator",
+    "password": "root"
+  },
   "ftp": {
     "host": "localhost",
     "username": "mantis",
@@ -16,6 +16,8 @@
     "port":4555,
     "username": "root",
     "password": "root"
+  },
+  "mantis": {
+    "url": "http://localhost/mantisbt-1.2.20/api/soap/mantisconnect.php?wsdl"
   }
-
 }
